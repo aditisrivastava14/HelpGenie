@@ -1,0 +1,124 @@
+Intent,Patterns,Response
+greeting,hi;hello;hey;good morning;good evening,Hello! How can I assist you today?
+greeting,hey there;hi bot;hello bot,Hi there! What can I help you with?
+goodbye,bye;exit;quit;see you,Goodbye! Have a great day ahead.
+order_status,where is my order;track my order;order status,Your order is being processed. You can track it in your account.
+order_status,has my order shipped;is my order dispatched,Your order will be shipped soon. You’ll get a notification.
+order_status,order tracking link;how to track order,Use the tracking link sent to your email.
+refund,how to get refund;refund process,Refunds are processed within 5–7 business days.
+refund,refund status;where is my refund,You can check refund status in your account.
+refund,when will i get my money back;refund time,Refunds take 5–7 working days after approval.
+cancel_order,cancel my order;how to cancel order,You can cancel your order before it is shipped.
+cancel_order,can i cancel after placing order;order cancellation policy,Orders can only be cancelled before dispatch.
+payment_issue,payment failed;transaction failed,Please retry or use another payment method.
+payment_issue,money deducted but order not placed;payment issue,Your money will be refunded within 5–7 days.
+payment_issue,unable to pay;checkout problem,Try clearing cache or use a different payment option.
+delivery_issue,late delivery;delivery delay,We apologize. Your order will arrive soon.
+delivery_issue,not delivered yet;where is delivery,Check tracking details or contact support.
+delivery_issue,delivery taking too long;delayed shipment,We are working to deliver your order quickly.
+login_issue,cannot login;login problem,Please reset your password using Forgot Password.
+login_issue,forgot password;password reset,Click on Forgot Password to reset it.
+login_issue,account locked;why cant i login,Contact support to unlock your account.
+product_info,product details;tell me about product,You can find details on the product page.
+product_info,is product available;availability of item,Check availability on the product page.
+product_info,product specifications;item info,Specifications are listed under product description.
+complaint,i want to complain;raise complaint,Please describe your issue. We’ll help you.
+complaint,bad service;not happy,We’re sorry. Please share more details.
+complaint,report issue;problem with service,We will resolve your issue as soon as possible.
+offers,any discounts;current offers,Check our homepage for latest offers.
+offers,coupon codes;promo code,Apply coupons during checkout.
+offers,discount available;sale going on,"Yes, current offers are listed on the website."
+contact_support,talk to human;connect to agent,You can contact our support team via chat or email.
+contact_support,customer care number;how to contact support,Visit our contact page for details.
+contact_support,support email;help center,You can reach us via our support email.
+return_exchange,return product;how to return item,You can request a return from your orders section.
+return_exchange,exchange product;replace item,Exchange requests can be made within 7 days.
+return_exchange,return policy;product return rules,Returns are accepted within 7 days of delivery.
+account_update,change email;update account info,You can update details in account settings.
+account_update,change phone number;edit profile,Go to profile settings to update info.
+account_update,update address;change delivery address,Address can be updated before placing order.
+shipping_info,shipping charges;delivery cost,Shipping charges depend on your location.
+shipping_info,free delivery;is delivery free,Free delivery is available on selected orders.
+shipping_info,delivery time;how long delivery takes,Delivery usually takes 3–5 days.
+greeting,hi;hello;hey;good morning;good evening,Hello! How can I assist you today?
+greeting,hey there;hi bot;hello bot,Hi there! What can I help you with?
+goodbye,bye;exit;quit;see you,Goodbye! Have a great day ahead.
+order_status,where is my order;track my order;order status,Your order is being processed. You can track it in your account.
+order_status,has my order shipped;is my order dispatched,Your order will be shipped soon. You’ll get a notification.
+order_status,order tracking link;how to track order,Use the tracking link sent to your email.
+refund,how to get refund;refund process,Refunds are processed within 5–7 business days.
+refund,refund status;where is my refund,You can check refund status in your account.
+refund,when will i get my money back;refund time,Refunds take 5–7 working days after approval.
+cancel_order,cancel my order;how to cancel order,You can cancel your order before it is shipped.
+cancel_order,can i cancel after placing order;order cancellation policy,Orders can only be cancelled before dispatch.
+payment_issue,payment failed;transaction failed,Please retry or use another payment method.
+payment_issue,money deducted but order not placed;payment issue,Your money will be refunded within 5–7 days.
+payment_issue,unable to pay;checkout problem,Try clearing cache or use a different payment option.
+delivery_issue,late delivery;delivery delay,We apologize. Your order will arrive soon.
+delivery_issue,not delivered yet;where is delivery,Check tracking details or contact support.
+delivery_issue,delivery taking too long;delayed shipment,We are working to deliver your order quickly.
+login_issue,cannot login;login problem,Please reset your password using Forgot Password.
+login_issue,forgot password;password reset,Click on Forgot Password to reset it.
+login_issue,account locked;why cant i login,Contact support to unlock your account.
+product_info,product details;tell me about product,You can find details on the product page.
+product_info,is product available;availability of item,Check availability on the product page.
+product_info,product specifications;item info,Specifications are listed under product description.
+complaint,i want to complain;raise complaint,Please describe your issue. We’ll help you.
+complaint,bad service;not happy,We’re sorry. Please share more details.
+complaint,report issue;problem with service,We will resolve your issue as soon as possible.
+offers,any discounts;current offers,Check our homepage for latest offers.
+offers,coupon codes;promo code,Apply coupons during checkout.
+offers,discount available;sale going on,"Yes, current offers are listed on the website."
+contact_support,talk to human;connect to agent,You can contact our support team via chat or email.
+contact_support,customer care number;how to contact support,Visit our contact page for details.
+contact_support,support email;help center,You can reach us via our support email.
+return_exchange,return product;how to return item,You can request a return from your orders section.
+return_exchange,exchange product;replace item,Exchange requests can be made within 7 days.
+return_exchange,return policy;product return rules,Returns are accepted within 7 days of delivery.
+account_update,change email;update account info,You can update details in account settings.
+account_update,change phone number;edit profile,Go to profile settings to update info.
+account_update,update address;change delivery address,Address can be updated before placing order.
+shipping_info,shipping charges;delivery cost,Shipping charges depend on your location.
+shipping_info,free delivery;is delivery free,Free delivery is available on selected orders.
+shipping_info,delivery time;how long delivery takes,Delivery usually takes 3–5 days.
+greeting,hi;hello;hey;good morning;good evening,Hello! How can I assist you today?
+greeting,hey there;hi bot;hello bot,Hi there! What can I help you with?
+goodbye,bye;exit;quit;see you,Goodbye! Have a great day ahead.
+order_status,where is my order;track my order;order status,Your order is being processed. You can track it in your account.
+order_status,has my order shipped;is my order dispatched,Your order will be shipped soon. You’ll get a notification.
+order_status,order tracking link;how to track order,Use the tracking link sent to your email.
+refund,how to get refund;refund process,Refunds are processed within 5–7 business days.
+refund,refund status;where is my refund,You can check refund status in your account.
+refund,when will i get my money back;refund time,Refunds take 5–7 working days after approval.
+cancel_order,cancel my order;how to cancel order,You can cancel your order before it is shipped.
+cancel_order,can i cancel after placing order;order cancellation policy,Orders can only be cancelled before dispatch.
+payment_issue,payment failed;transaction failed,Please retry or use another payment method.
+payment_issue,money deducted but order not placed;payment issue,Your money will be refunded within 5–7 days.
+payment_issue,unable to pay;checkout problem,Try clearing cache or use a different payment option.
+delivery_issue,late delivery;delivery delay,We apologize. Your order will arrive soon.
+delivery_issue,not delivered yet;where is delivery,Check tracking details or contact support.
+delivery_issue,delivery taking too long;delayed shipment,We are working to deliver your order quickly.
+login_issue,cannot login;login problem,Please reset your password using Forgot Password.
+login_issue,forgot password;password reset,Click on Forgot Password to reset it.
+login_issue,account locked;why cant i login,Contact support to unlock your account.
+product_info,product details;tell me about product,You can find details on the product page.
+product_info,is product available;availability of item,Check availability on the product page.
+product_info,product specifications;item info,Specifications are listed under product description.
+complaint,i want to complain;raise complaint,Please describe your issue. We’ll help you.
+complaint,bad service;not happy,We’re sorry. Please share more details.
+complaint,report issue;problem with service,We will resolve your issue as soon as possible.
+offers,any discounts;current offers,Check our homepage for latest offers.
+offers,coupon codes;promo code,Apply coupons during checkout.
+offers,discount available;sale going on,"Yes, current offers are listed on the website."
+contact_support,talk to human;connect to agent,You can contact our support team via chat or email.
+contact_support,customer care number;how to contact support,Visit our contact page for details.
+contact_support,support email;help center,You can reach us via our support email.
+return_exchange,return product;how to return item,You can request a return from your orders section.
+return_exchange,exchange product;replace item,Exchange requests can be made within 7 days.
+return_exchange,return policy;product return rules,Returns are accepted within 7 days of delivery.
+account_update,change email;update account info,You can update details in account settings.
+account_update,change phone number;edit profile,Go to profile settings to update info.
+account_update,update address;change delivery address,Address can be updated before placing order.
+shipping_info,shipping charges;delivery cost,Shipping charges depend on your location.
+shipping_info,free delivery;is delivery free,Free delivery is available on selected orders.
+shipping_info,delivery time;how long delivery takes,Delivery usually takes 3–5 days.
